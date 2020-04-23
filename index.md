@@ -8,5 +8,3 @@
 - [Discord (tem alguem aí?)](https://discord.gg/JJdWdm2)
 - [Fotos/Vídeos](https://drive.google.com/folderview?id=10smGzrTAmgk1qk5-UdDCT6fZ7ZJKZ8Bf)
 
-Planilha:
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVneRK38CnU7KlxgyuEzW7_KHztlDgS46S8t7PHVqEkJpU8X2NgyyPHOWZ-hUoWXcJvN0Zhp6jghFA/pubhtml?widget=true&amp;headers=false" width="900" height="780" style="border: none;"></iframe>
