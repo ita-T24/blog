@@ -1,3 +1,3 @@
-# Your blog
+# Blog da T24
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+Esse é o repositório do blog da T24.
