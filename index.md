@@ -1,4 +1,4 @@
-# Fabulosa T24 :unicorn:
+# Fabulosa T24 🦄
 
 ## Links
 
